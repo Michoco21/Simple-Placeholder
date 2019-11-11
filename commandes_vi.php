@@ -93,6 +93,50 @@
     </ul>
   </div>
 
-  <div class="ligne4">
-    Modification en cours !
-  </div>
+<div>
+<ul>
+  <li>0	Aller en début de ligne</li>
+  <li>$	Aller en fin de ligne</li>
+  <li>k	Ligne précédente</li>
+  <li>j	Ligne suivante</li>
+  <li>h	Caractère précédent</li>
+  <li>l	Caractère suivant</li>
+  <li>b	Mot précédent</li>
+  <li>w	Mot suivant</li>
+  <li>Ctrl-B	Page précédente</li>
+  <li>Ctrl-F	Page suivante</li>
+  <li>nG	Aller à la ligne n. Exemple: 1G va sur la première ligne</li>
+  <li>G	Aller à la dernière ligne</li>
+  <li>x	Supprime le caractère sous le curseur</li>
+  <li>dd	Supprime la ligne courante et la copie dans le presse-papiers</li>
+  <li>nd	Idem avec n lignes</li>
+  <li>J	Fusionne la ligne courante et la suivante</li>
+  <li>yy	Copie la ligne courante dans le presse-papiers</li>
+  <li>ny	Idem avec n lignes</li>
+  <li>P	Colle le presse-papiers avant la position courante</li>
+  <li>p	Colle le presse-papiers après la position courante</li>
+  <li>v	Commence une sélection en mode caractères</li>
+  <li>V	Commence une sélection en mode lignes</li>
+  <li>Ctrl-V	Commence une sélection en mode "rectangulaire"</li>
+  <li>d	Supprime la sélection et la copie dans le presse-papiers</li>
+  <li>y	Copie la sélection dans le presse-papiers</li>
+  <li>c	Supprime la sélection et passe en mode insertion</li>
+  <li>i	Passe en mode insertion avant la position courante</li>
+  <li>a	Passe en mode insertion après la position courante</li>
+  <li>o	Passe en mode insertion sur une nouvelle ligne sous la ligne courante</li>
+  <li>Esc	Quitte le mode insertion</li>
+  <li>u	Annule la dernière commande</li>
+  <li>r	Remplace le caractère sous le curseur par le prochain caractère tapé</li>
+  <li>~	Convertit le caractère sous le curseur en majuscule si c'est une minuscule et vice-versa</li>
+  <li>/texte	Recherche en avant du texte indiqué</li>
+  <li>?texte	Recherche en arrière du texte indiqué</li>
+  <li>n	Recherche l'occurrence suivante</li>
+  <li>N	Recherche l'occurrence précédente</li>
+  <li>:%s/chercher/remplacer	Recherche avec remplacement dans tout le fichier</li>
+  <li>:w	Sauvegarde le fichier courant</li>
+  <li>:wfichier	Ecrit le document dans le fichier indiqué</li>
+  <li>:rfichier	Inclut le fichier indiqué à partir de la position courante</li>
+  <li>:q!	Quitter en annulant les modifications</li>
+  <li>ZZ (ou :wq)	Quitter en enregistrant les modifications</li>
+</ul>
+</div>
